@@ -1,0 +1,9 @@
+button{
+    color: antiquewhite;
+     margin: 5px; 
+    box-shadow: 2px;
+    box-sizing: content-box;
+    border: none;
+    /* display:inline-flex */
+
+}
